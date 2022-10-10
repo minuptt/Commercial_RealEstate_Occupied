@@ -1,4 +1,4 @@
-# Data_Analysis_in_MS_Excel
+# Data Analysis in MS Excel Projects
 
 ## Purpose:
 - This is the repository for data analysis projects using Microsoft Excel.
